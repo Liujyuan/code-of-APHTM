@@ -1,4 +1,4 @@
-# code_of_CAHTM
+# code_of_APHTM
 The code of Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance
 
 Jiyuan Liu and Hegang Chen and Chunjiang Zhu and Yanghui Rao*
